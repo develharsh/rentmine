@@ -15,5 +15,20 @@ a {
   box-sizing: border-box;
 }
 
+input::placeholder{
+  color:blue;
+}
+textarea::placeholder{
+  color:blue;
+}
+
 /* ----------- Home ------------- */
 @import url("./index.css");
+/* ----------- Nav------------- */
+@import url("./nav.css");
+/* ----------- ProperDetail ------------- */
+@import url("./productDetail.css");
+/* ----------- Signup ------------- */
+@import url("./signup.css");
+/* ----------- Create ------------- */
+@import url("./create.css");

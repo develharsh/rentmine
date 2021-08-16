@@ -1,7 +1,7 @@
 import Link from 'next/link'
 import Image from 'next/image'
 
-export default function Home() {
+export default function Home(props) {
   return (
     <div>
       <Image src='/20945149.jpg' width="800px" height="500px" alt="..." />
@@ -11,4 +11,9 @@ export default function Home() {
       </div>
     </div>
   )
+}
+export async function getStaticProps(context) {
+  return {
+    props: {}, // will be passed to the page component as props
+  }
 }
