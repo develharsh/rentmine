@@ -1,6 +1,6 @@
 module.exports = {
   env: {
-    "BASE_URL": "http://localhost:3000",
+    "BASE_URL": "https://hvtemp.vercel.app/",
     "MONGODB_URL": "mongodb+srv://hvs:thakur@cluster0.h3zc7.mongodb.net/rentmine?retryWrites=true&w=majority",
     "JWT_SECRET": "!)@(#*$&%^",
     "TOKEN_EXPIRE":"7d",
