@@ -1,5 +1,5 @@
 {
-  "name": "evot",
+  "name": "rentmine",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,6 +9,10 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "js-cookie": "^3.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.13.7",
     "next": "11.1.0",
     "react": "17.0.2",
     "react-dom": "17.0.2"
