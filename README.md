@@ -1,4 +1,4 @@
-#Rent Mine
+# Rent-Mine
 A web App which helps people finding the rentals apartments, if user is a property owner, and wants his apartment to let
 then, He/she can also post his apartment details, So other users will also be able to see their post .
 **What i used:**
