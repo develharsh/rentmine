@@ -1,14 +1,14 @@
 module.exports = {
   env: {
-    "BASE_URL": "https://rentmine.vercel.app/",
-    "MONGODB_URL": "mongodb+srv://hvs:thakur@cluster0.h3zc7.mongodb.net/rentmine?retryWrites=true&w=majority",
-    "JWT_SECRET": "!)@(#*$&%^",
-    "TOKEN_EXPIRE":"7d",
-    "CLOUD_UPDATE_PRESET": "duskanddawn",
-    "CLOUD_NAME": "duskanddawn",
-    "CLOUD_API": "https://api.cloudinary.com/v1_1/duskanddawn/image/upload"
+    "BASE_URL": "X",
+    "MONGODB_URL": "X",
+    "JWT_SECRET": "X",
+    "TOKEN_EXPIRE":"X",
+    "CLOUD_UPDATE_PRESET": "dXn",
+    "CLOUD_NAME": "duXn",
+    "CLOUD_API": "htXupload"
   },
   images: {
-    domains: ['res.cloudinary.com'],
+    domains: ['X'],
   },
 }
